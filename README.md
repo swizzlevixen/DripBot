@@ -53,7 +53,7 @@ If you see the LEDs turn solid red after you press the button, it means that sen
 - `2018-02-16`
 - Transferred to Raspberry Pi hosting with an arcade button and LED indicators
 - Introduced "gruber" function
-- Made temporary enclosure from food service container
+- Made temporary enclosure from food service container, and installed at The Omni Group
 
 ### DripBot for Mac 0.7 α
 
