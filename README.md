@@ -1,6 +1,6 @@
 # DripBot
 
-A device to announce fresh drip coffee to a Mattermost Channel, and forever banish the scourge of “yestercoffee.”
+A device to announce fresh drip coffee to a Mattermost channel, and forever banish the scourge of “yestercoffee.”
 
 ![DripBot Logo](hardware/logo/dripbot-80s-chrome-770.png "A bitchin’ retro 80s neon and chrome logo")
 
